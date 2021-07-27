@@ -1,5 +1,10 @@
-body{
-    background-color:#fff;
-    color:#2a2a2a
-    ;
+.body {
+  background-color: rgb(138, 207, 169);
+  color: #deece5;
+}
+.title {
+  font-family: fantasy;
+  font-size: large;
+  font-weight: bold;
+  margin: auto;
 }
